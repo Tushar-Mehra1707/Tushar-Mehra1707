@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tushar Mehra</h1>
+ <h1 align="center">Hi 👋, I'm Tushar Mehra</h1>
 <h3 align="center">A passionate MERN Stack Developer with strong skills in building responsive, user-friendly web interfaces. I believe great products come from a balance of clean code, thoughtful design, and continuous improvement. I’m always experimenting, learning, and pushing boundaries to build better digital solutions. I enjoy solving challenging problems, creating interactive interfaces, and developing applications that people love to use. For me, coding is not just work—it’s creating something impactful.</h3>
 
 - 🔭 I’m currently working on GENAI Project. **GENAI interview**
